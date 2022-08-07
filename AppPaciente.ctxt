@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AppPaciente
+comment0.text=\r\n\ Simulador\ de\ um\ arquivo\ de\ hospital\ com\ diagn\u00F3sticos,\ conv\u00EAnios\ e\ dados\ dos\ pacientes.\r\n\r\n\ @author\ David\ Campos\ e\ Rodrigo\ Binsfeld\r\n\ @version\ V3\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ menu()
+numComments=3

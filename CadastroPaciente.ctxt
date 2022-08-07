@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CadastroPaciente
+comment1.params=
+comment1.target=CadastroPaciente()
+comment10.params=
+comment10.target=int\ getIndex()
+comment2.params=novo
+comment2.target=boolean\ adicionaPaciente(Paciente)
+comment3.params=x
+comment3.target=int\ localizaPaciente(Paciente)
+comment4.params=x
+comment4.target=boolean\ removePaciente(Paciente)
+comment5.params=
+comment5.target=void\ imprimeOVetor()
+comment6.params=
+comment6.target=void\ imprimeOVetorOcupado()
+comment7.params=
+comment7.target=void\ escreveEmOrdemAlfab\u00E9tica()
+comment8.params=
+comment8.target=double\ mediaConsultas()
+comment9.params=
+comment9.target=void\ porcentagemDiagnosticos()
+numComments=11
